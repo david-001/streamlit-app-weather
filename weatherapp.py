@@ -17,7 +17,7 @@
 # import requests
 
 # # OpenWeatherMap API key (replace with your own key)
-# api_key = "5414e746147b54fa89182833830813a8"
+# api_key = st.secrets["weather_api"]
 
 # # Streamlit app title
 # st.title("Weather Data Visualization")
